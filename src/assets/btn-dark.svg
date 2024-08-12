@@ -1,0 +1,15 @@
+  <svg
+          className="fill-white dark:fill-gray-900"
+          width="12"
+          height="12"
+          viewBox="0 0 12 12"
+          fill="black dark:white"
+          xmlns="http://www.w3.org/2000/svg"
+          role="img"
+        >
+          <path
+            fillRule="evenodd"
+            clipRule="evenodd"
+            d="M12 6C12 5.90273 11.9057 5.8348 11.8115 5.85853C11.4452 5.95093 11.0617 6 10.6667 6C8.08933 6 6 3.91066 6 1.33333C6 0.938353 6.04907 0.554833 6.14147 0.188533C6.1652 0.0942333 6.09727 0 6 0C2.68629 0 0 2.68629 0 6C0 9.31373 2.68629 12 6 12C9.31373 12 12 9.31373 12 6Z"
+          />
+        </svg>
